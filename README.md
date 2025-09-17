@@ -23,6 +23,3 @@
   + Theo giao hàng: Tỷ lệ giao hàng đúng hạn vs trễ hạn.
   + Theo thời gian: Xu hướng hiệu suất kinh doanh qua năm, quý, tháng.
 - Predictive Analytics: Ứng dụng các mô hình Machine Learning (Logistic Regression, Neural Network, Decision Tree, SVM) để dự báo rủi ro giao hàng trễ và đánh giá hiệu quả bằng AUC/F1-score thông qua Orange Data Mining.
-Sử dụng bộ lọc để phân tích theo thị trường, khách hàng, sản phẩm.
-
-Chạy mô hình dự báo để phân tích rủi ro giao hàng trễ.
