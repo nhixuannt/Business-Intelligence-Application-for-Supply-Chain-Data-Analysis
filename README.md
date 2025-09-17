@@ -4,6 +4,7 @@
 - Tổng quan: Đồ án môn học Business Intelligence, ứng dụng Business Intelligence (BI) để phân tích dữ liệu chuỗi cung ứng của DataCo Global (Raw data được lấy từ Kaggle). Mục tiêu của việc phân tích dữ liệu nhằm đánh giá hiệu suất kinh doanh hiện tại, phát hiện các vấn đề trong việc vận hành chuỗi cung ứng đặc biệt là khâu giao hàng, đồng thời đề xuất chiến lược dựa trên dữ liệu nhằm tối ưu chi phí, tăng trưởng doanh thu và cải thiện tỷ lệ giao hàng đúng hạn.
 - Team size: 6
 - Role taken: Leader
+- Link project: https://drive.google.com/drive/folders/1vdU6hTWwtR4pduczqFdP84sfnFdjCOc8?usp=drive_link
 
 **II. Data**
 - DataCo Smart Supply Chain for Big Data Analysis (Kaggle).
